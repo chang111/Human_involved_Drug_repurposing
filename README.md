@@ -1,8 +1,5 @@
-# Template for TigerGraph Graph for All Challenge Submissions
-Use this template for your project submisison and edit the README following the text below. Add your project code and data (if public) to the repository. 
-
-# Project Title
-**Contributers and Contact Information: [ ]**
+# Reliable Drug Repurposing By Involving Human Scientist
+**Contributers and Contact Information: Jimmy Chang changjiangeng1@gmail.com
 
 **Problem Statement addressed (or explain your own): [ ]**
 
