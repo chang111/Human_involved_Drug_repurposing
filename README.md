@@ -1,5 +1,5 @@
 # Reliable Drug Repurposing By Involving Human Scientist
-**Contributers and Contact Information: Jimmy Chang changjiangeng1@gmail.com
+**Contributers and Contact Information: Jangy Chang ephjia@nus.edu.sg
 
 **Problem Statement addressed (or explain your own): [ ]**
 
