@@ -1,4 +1,4 @@
-# Reliable Drug Repurposing By Involving Human Scientist
+# Deep Drug Repurposing By Involving Visual Relation
 **Contributers and Contact Information: Jangy Chang ephjia@nus.edu.sg
 
 **Problem Statement addressed (or explain your own): [ ]**
